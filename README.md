@@ -19,16 +19,16 @@ Antes de começar, certifique-se de que você tenha o Python 3.7 ou superior ins
 
 # Como usar
 
-  # 1 - Clone este repositório
+  1 - Clone este repositório
   ```
   git clone https://github.com/euluah/DesafioFInalSQ04.git
   cd seu-projeto
   ```
   
-  # 2 - Cadastre os livros:
+  2 - Cadastre os livros:
   Abra o arquivo cadastra_livros.py e verifique se as informações dos livros estão corretas.
   
-  # 3 - Liste os livros cadastrados:
+  3 - Liste os livros cadastrados:
   Abra o arquivo reqAPI.py e verifique se a URL da API está correta. Em seguida, execute o script: 
   
   ```
